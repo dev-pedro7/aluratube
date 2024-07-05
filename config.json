@@ -3,7 +3,7 @@
     "github": "dev-pedro7.png",
     "job": "Estudante de React",
     "playlists":{
-        "jogos":[
+        "Jogos":[
             {
                 "tittle": "ELES NÃO MORREM! - RESIDENT EVIL 2 REMAKE - Parte 1",
                 "url": "https://www.youtube.com/watch?v=7YrpD6PVB5M",
@@ -57,7 +57,7 @@
                 
             }
         ],
-        "front":[
+        "Front-end":[
             {
                 "tittle": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
                 "url": "https://www.youtube.com/watch?v=epDCjksKMok",
