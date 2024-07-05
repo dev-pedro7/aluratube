@@ -1,0 +1,117 @@
+{
+    "nome": "Pedro Henrique Gomes Toaldo",
+    "github": "dev-pedro7.png",
+    "job": "Estudante de React",
+    "playlists":{
+        "jogos":[
+            {
+                "tittle": "ELES NÃO MORREM! - RESIDENT EVIL 2 REMAKE - Parte 1",
+                "url": "https://www.youtube.com/watch?v=7YrpD6PVB5M",
+                "thumb": "https://img.youtube.com/vi/7YrpD6PVB5M/hqdefault.jpg"
+            },
+            {
+                "tittle": "NÃO DEU PRA MIM! - RESIDENT EVIL 2 REMAKE - Parte 2",
+                "url": "https://www.youtube.com/watch?v=BwR2lJigudQ",
+                "thumb": "https://img.youtube.com/vi/BwR2lJigudQ/hqdefault.jpg"
+            },
+            {
+                "tittle": "ODEIO ESSES CACHORROS! - RESIDENT EVIL 2 REMAKE - Parte 3",
+                "url": "https://www.youtube.com/watch?v=FyX0Qesb0xE",
+                "thumb": "https://img.youtube.com/vi/FyX0Qesb0xE/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "O MR. X ME ODEIA! - RESIDENT EVIL 2 REMAKE - Parte 4",
+                "url": "https://www.youtube.com/watch?v=wL6qSNnjDjs",
+                "thumb": "https://img.youtube.com/vi/wL6qSNnjDjs/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "QUE MONSTRO É ESSE? - RESIDENT EVIL 2 REMAKE - Parte 5",
+                "url": "https://www.youtube.com/watch?v=S9J_nAENzTA",
+                "thumb": "https://img.youtube.com/vi/S9J_nAENzTA/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "O PUZZLE DO XADREZ! - RESIDENT EVIL 2 REMAKE - Parte 6",
+                "url": "https://www.youtube.com/watch?v=QkHR7JQlzv8",
+                "thumb": "https://img.youtube.com/vi/QkHR7JQlzv8/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "QUEIMA TUDO! - RESIDENT EVIL 2 REMAKE (LEON) - Parte 7",
+                "url": "https://www.youtube.com/watch?v=7ivooLegYPw",
+                "thumb": "https://img.youtube.com/vi/7ivooLegYPw/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "NÃO TENHO MAIS TEMPO! - RESIDENT EVIL 2 REMAKE (LEON) - Parte 8 / FINAL",
+                "url": "https://www.youtube.com/watch?v=gJjBDaUCbRw",
+                "thumb": "https://img.youtube.com/vi/gJjBDaUCbRw/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "O OUTRO LADO! - RESIDENT EVIL 2 REMAKE (CLAIRE) - Parte 1",
+                "url": "https://www.youtube.com/watch?v=hFKdu7A9DwQ",
+                "thumb": "https://img.youtube.com/vi/hFKdu7A9DwQ/hqdefault.jpg"
+                
+            }
+        ],
+        "front":[
+            {
+                "tittle": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+                "url": "https://www.youtube.com/watch?v=epDCjksKMok",
+                "thumb": "https://img.youtube.com/vi/epDCjksKMok/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "Escreva HTML como um profissional | HTML semântico na prática",
+                "url": "https://www.youtube.com/watch?v=IHMOu_KEW-0",
+                "thumb": "https://img.youtube.com/vi/IHMOu_KEW-0/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "JavaScript (A linguagem mais AMADA e/ou ODIADA 😁) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Ri76yOpLrNg",
+                "thumb": "https://img.youtube.com/vi/Ri76yOpLrNg/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "ReactJS em 1h - Componentes - Iniciantes",
+                "url": "https://www.youtube.com/watch?v=K65wUN-2no4",
+                "thumb": "https://img.youtube.com/vi/K65wUN-2no4/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "REACT.JS Primeiros passos - 9 minutos",
+                "url": "https://www.youtube.com/watch?v=SQsR0KA-oew",
+                "thumb": "https://img.youtube.com/vi/SQsR0KA-oew/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "Esse PATTERN do React pode te salvar (+ lib secreta)",
+                "url": "https://www.youtube.com/watch?v=zhgbanI0UV8",
+                "thumb": "https://img.youtube.com/vi/zhgbanI0UV8/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "A História do Front-End para Iniciantes em Programação | Série Começando aos 40",
+                "url": "https://www.youtube.com/watch?v=VKmPGmFY7H4",
+                "thumb": "https://img.youtube.com/vi/VKmPGmFY7H4/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "Front end e os novos desafios do ecossistema - Faladev #31",
+                "url": "https://www.youtube.com/watch?v=HvBilIEuZlo",
+                "thumb": "https://img.youtube.com/vi/HvBilIEuZlo/hqdefault.jpg"
+                
+            },
+            {
+                "tittle": "Tudo sobre Front-End: 💰 salários, o que estudar e dicas para carreira.",
+                "url": "https://www.youtube.com/watch?v=8xo1FID4TqU",
+                "thumb": "https://img.youtube.com/vi/8xo1FID4TqU/hqdefault.jpg"
+                
+            }
+        ]
+    }
+}
