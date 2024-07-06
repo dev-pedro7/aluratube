@@ -3,7 +3,7 @@
     "github": "dev-pedro7.png",
     "job": "Estudante de React",
     "playlists":{
-        "jogos":[
+        "Jogos":[
             {
                 "tittle": "ELES NÃO MORREM! - RESIDENT EVIL 2 REMAKE - Parte 1",
                 "url": "https://www.youtube.com/watch?v=7YrpD6PVB5M",
@@ -57,7 +57,7 @@
                 
             }
         ],
-        "front":[
+        "Front-end":[
             {
                 "tittle": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
                 "url": "https://www.youtube.com/watch?v=epDCjksKMok",
@@ -113,5 +113,45 @@
                 
             }
         ]
-    }
+    },
+    "channels":[
+        {
+            "img": "https://yt3.googleusercontent.com/wvlCpRqb9Hb9Yuv62LDo-AZxr-MpAHTvpeToBGpNOPSMNGQIyplQh2EZv75SLHOZIkpijT00=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@alanzoka"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/c/CursoemVídeo"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/gbB1dP_hDfkvC0M1G1e8UIIfIBymSBg_yuWnCQF8tkEVo0W0EgRvi82pEC4U3oWzD9WCt_0WLmo=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@ManualdoDev"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/jKYyKomWrcwv0hgbPr8Jof6ZH8nP4EfrbRt4iWbseLwITGo2r8Rj2ksxv7WYy7Y4yBcFst2MVn8=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@codigofontetv"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/ytc/AIdro_kT5Lopz5YKxsC4JP_VLCGM8AqkhlzXyUQKst2OO0Svx-I=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@DevMediaBrasil"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/6m9Q-yad3FXuGLlAkfcWmkaThNPwT2TGRyfpELFzFZb5BqBYwo_XV_ia_c-k6m6JwAx7m_4B=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@rocketseat"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/ytc/AIdro_l9jtAcERHIts0q6LsUtmAGPzQ8p8FzKGAoYRJ1N3Wz3Hs0=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@Akitando"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/gbB1dP_hDfkvC0M1G1e8UIIfIBymSBg_yuWnCQF8tkEVo0W0EgRvi82pEC4U3oWzD9WCt_0WLmo=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@ManualdoDev"
+        },
+        {
+            "img":"https://yt3.googleusercontent.com/AD14ITicED4ri20httYHAvwUJkJGy8bTnKLk379YhiyvYYXXCkXgw16P73jh5ZAGi4_8jyf_sA=s160-c-k-c0x00ffffff-no-rj",
+            "url":"https://www.youtube.com/@FalaCoders"
+        }
+        
+        
+    ]
 }
