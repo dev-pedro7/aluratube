@@ -12,11 +12,12 @@ function Home() {
         <div style={{
             display: "flex",
             flexDirection: "column",
-            flex:1        
+            flex:1       
         }}>
             <Menu />
             <Header />
             <Timeline playlists={config.playlists} />
+            <Channel channels = {config.channels}/>
         </div>
         </>
     );
@@ -44,7 +45,7 @@ function Header() {
     return (
         <StyledHeader>
             <section className="user-info">
-                <img src={`https://github.com/${config.github}`} alt="User profile" />
+                <img src={`https://github.com/${config.github}`}/>
                 <div>
                     <h2>{config.nome}</h2>
                     <p>{config.job}</p>
@@ -66,16 +67,54 @@ function Timeline(prop) {
                         <div>
                             {videos.map((video) => {
                                 return (
-                                    <a  href={video.url}>
+                                    <a  href={video.url} target="_blank">
                                         <img src={video.thumb}/> <br></br>
                                         <span>{video.tittle}</span>
                                     </a>
                                 );
                             })}
                         </div>
+                        
                     </section>
+                    
                 );
+                
             })}
         </StyledTimeline>
+    );
+}
+
+const StyledChannel = styled.div`
+    section {
+        padding: 16px;
+    }
+    h2 {
+        margin-bottom: 16px;
+    }
+    div {
+        display: flex;
+        gap: 19px;
+    }
+    img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+`;
+
+function Channel(props) {
+    return (
+        <StyledChannel>
+            <section>
+                <h2>Canais</h2>
+                <div>
+                    {props.channels.map((channel) => (
+                        <a href={channel.url} target="_blank">
+                            <img src={channel.img} />
+                        </a>
+                    ))}
+                </div>
+            </section>
+        </StyledChannel>
     );
 }
